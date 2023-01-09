@@ -2,7 +2,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](igorsansilva3@gmail.com)
 
-![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor-ia&show_icons=true&theme=dark)
+![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor-ia&theme=merko&show_icons=true)
 
 ## Tecnologias que eu uso no meu dia
 
